@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "react-nice-avatar": "^1.4.1",
     "react-router-dom": "^5.3.4"
   }
 }

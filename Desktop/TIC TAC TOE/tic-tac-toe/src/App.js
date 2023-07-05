@@ -11,7 +11,7 @@ function App() {
   const mode = (theme === "light" ? lightTheme : darkTheme)
   return (
     <ThemeProvider theme={mode}>
-      <GlobalStyle/>
+     <GlobalStyle/>
       <Router/>
     </ThemeProvider>
   );
